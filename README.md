@@ -44,7 +44,6 @@
 # 모델 개발 
 - LSTM AUTOENCODER 사용하여 설비별로 모델링 수행
 - input shape, latent dim, loss function 등 다양하게 hpo 수행
-- type1의 train 데이터의 조치가 필요했음
 
 <br/><br>
 # 결과
